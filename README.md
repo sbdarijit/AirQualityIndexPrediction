@@ -27,8 +27,7 @@ App to predict AirQuality for given climate condition. It is a Machine Learning 
      Enter various climate details and then click the Predict button to get the Air Quality Index.
      
 ## Demo
-   Demo: (https://airuqalityindexprediction.herokuapp.com/ )
-![Screenshot ](https://user-images.githubusercontent.com/53623131/134787897-042c0e5e-148e-4ef0-98b3-af02b7caa7e1.png)
+   Demo: 
 
      
      
@@ -52,7 +51,7 @@ Any additional information goes here
   3. https://www.freepik.com/free-photos-vectors/air-quality-index
 ## Author
 
-- [Anjana Suresh](https://github.com/Anjana85)
+- [Arijit Choudhury](https://github.com/sbdarijit)
 
   
 ## Deployment
@@ -73,12 +72,12 @@ pandas>=0.19
 
   
 ## 🚀 About Me 
-I Love to work wuth data ...
+I Love to work with data ...
 The best part about working with data is seeing the impact it can have in an organization. 
 Data can be powerfully objective when properly and thoroughly analyzed- seeing the predictions 
 of intensive analysis lead to meaningful change is extremely rewarding.
 
-Contact: anjana.ps85@gmail.com
+Contact: arijitchoudhury.99@gmail.com
 
 
   
