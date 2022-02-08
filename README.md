@@ -27,7 +27,7 @@ App to predict AirQuality for given climate condition. It is a Machine Learning 
      Enter various climate details and then click the Predict button to get the Air Quality Index.
      
 ## Demo
-   Demo: 
+   Demo: https://air-quality-index-prediction-1.herokuapp.com/
 
      
      
